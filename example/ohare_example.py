@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from statsmodels.tsa.stattools import acf
 
-from src import correction_downscale_methods, distribution_tests, error_metrics, som_downscale, utilities
+from CCdownscaling import correction_downscale_methods, distribution_tests, error_metrics, som_downscale, utilities
 
 # for reproducibility
 seed = 1

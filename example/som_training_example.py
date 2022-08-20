@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-from src import som_downscale, utilities
+from CCdownscaling import som_downscale, utilities
 
 
 def som_size_selection(downscaling_target='precip', station_id='725300-94846'):
