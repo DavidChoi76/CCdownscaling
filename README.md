@@ -23,3 +23,5 @@ And runs through several downscaling methods, including SOM, random forest, and 
 Add two Jupyter Notebooks 
 1. The first notebook to download Climate Change Scenario Data from https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cmip6?tab=form using API
 2. The second notebook to downscale climate scenario data using CCdownscaling tool
+
+Start downscaling using Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidChoi76/CCdownscaling.git/HEAD)

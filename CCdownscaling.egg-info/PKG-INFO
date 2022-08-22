@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: CCdownscaling
-Version: 0.0.0
-Summary: A package providing several statistical climate downscaling tools and evaluation metrics
-Home-page: https://github.com/drewpolasky/CCdownscaling
-Author: Drew Polasky
-Author-email: drewpolasy@gmail.com
-License: MIT
-License-File: LICENSE
