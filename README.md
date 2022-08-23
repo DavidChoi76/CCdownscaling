@@ -1,7 +1,7 @@
 # CCdownscaling
 
-This package provides implementation of several statistical climate downscaling techniques, as well as evaluation tools for downscaling outputs. 
-
+This package provides implementation of several statistical climate downscaling techniques, as well as evaluation tools for downscaling outputs.
+Preprint version of this research: https://egusphere.copernicus.org/preprints/2022/egusphere-2022-282/egusphere-2022-282.pdf
 ## Requirements
 
 See [`environment.yml`](./environment.yml). Tensorflow is pinned in this conda environment in the interest of reproducibility.
