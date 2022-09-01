@@ -18,7 +18,7 @@ python ohare_example.py
 ```
 And runs through several downscaling methods, including SOM, random forest, and quantile mapping. All these methods are then compared on PDF skill score, KS test, RMSE, bias, and autocorrelation, along with the undownscaled values from the NCEP reanalysis.
 
-## Additional Examples: Uganda international education
+## Additional Examples: Uganda and Pakistan international education
 
 Add two Jupyter Notebooks 
 1. The first notebook to download Climate Change Scenario Data from https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cmip6?tab=form using API
