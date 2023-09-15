@@ -4,6 +4,9 @@ This package provides implementation of several statistical climate downscaling 
 Preprint version of this research: https://egusphere.copernicus.org/preprints/2022/egusphere-2022-282/egusphere-2022-282.pdf
 ## Requirements
 
+use gpm_api code to collection historical rainfall data
+search other statistical downscaling libraries
+
 See [`environment.yml`](./environment.yml). Tensorflow is pinned in this conda environment in the interest of reproducibility.
 
 ## Usage
