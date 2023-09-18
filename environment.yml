@@ -15,6 +15,7 @@ dependencies:
   - statsmodels
   - tensorflow=1.14.0
   - xarray
+  - leafmap
   - pip
   - pip:
     - https://github.com/joshloyal/sliced/archive/243bde2.zip
