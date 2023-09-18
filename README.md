@@ -24,7 +24,7 @@ Start JupyterHub environment using Binder [![Binder](https://mybinder.org/badge_
    
 ### 3. Mozambique
 
-   a. The <a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cmip6?tab=form" target="_blank"> first notebook </a> to download Climate Change Scenario Data from <a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cmip6?tab=form" target="_blank"> CMIP6 Climate Projections Data Store </a> using API
+   a. The <a href="https://github.com/DavidChoi76/CCdownscaling/blob/main/example/mozambique/1_Downloading_Climate_Data_from_Clmate_Data_Store.ipynb" target="_blank"> first notebook </a> to download Climate Change Scenario Data from <a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cmip6?tab=form" target="_blank"> CMIP6 Climate Projections Data Store </a> using API
    
-   b. The <a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/projections-cmip6?tab=form" target="_blank"> second notebook </a> to downscale climate scenario data using CCdownscaling tool
+   b. The <a href="https://github.com/DavidChoi76/CCdownscaling/blob/main/example/mozambique/2_application_of%20_downscaling_methods_using_climate_data.ipynb" target="_blank"> second notebook </a> to downscale climate scenario data using CCdownscaling tool
 
