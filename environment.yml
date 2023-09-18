@@ -16,6 +16,7 @@ dependencies:
   - tensorflow=1.14.0
   - xarray
   - leafmap
+  - importlib-metadata
   - pip
   - pip:
     - https://github.com/joshloyal/sliced/archive/243bde2.zip
