@@ -2,11 +2,13 @@ name: ccdown
 channels:
   - conda-forge
 dependencies:
+  - python=3.7
+  - ipython
   - numpy
   - cdsapi
   - pandas
   - netCDF4
-  - dask
+  - dask-core
   - xarray
   - matplotlib
   - cartopy
