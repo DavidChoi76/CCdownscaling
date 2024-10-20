@@ -1,4 +1,6 @@
-name: example-environment
+name: ccdown
+channels:
+  - conda-forge
 dependencies:
   - numpy
   - cdsapi
@@ -15,3 +17,8 @@ dependencies:
   - leafmap
   - importlib-metadata
   - cartopy
+  - pip
+  - pip:
+    - https://github.com/joshloyal/sliced/archive/243bde2.zip
+    - cdsapi
+    - -e .  
